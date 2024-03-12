@@ -1,23 +1,23 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+    " _____  _____  ______          _____",
+    " |  __ \|  __ \|  ____|  /\   |  __ \ ",
+    "| |  | | |__) | |__     /  \  | |  | |",
+    "| |  | |  _  /|  __|   / /\ \ | |  | |",
+    "| |__| | | \ \| |____ / ____ \| |__| |",
+    "|_____/|_|  \_\______/_/    \_\_____/"
   ],
-  "title": "WebShell",
+  "title": "DREAD",
   "username": "visitor",
-  "hostname": "webshell",
-  "password": "050823",
+  "hostname": "DREAD",
+  "password": "missing_J.R",
   "repoLink": "https://github.com/nasan016/webshell",
   "social": {
     "email": "your@email.com",
     "github": "yourgithub",
     "linkedin": "you"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hi stranger. Welcome to DREAD.",
   "projects": [
     [
       "GofeR",
@@ -31,7 +31,7 @@
     ]
   ],
   "colors": {
-    "background": "#0C0623",
+    "background": "#0f0f0f",
     "foreground": "#F8DDE5",
     "banner": "#FF9951",
     "border": {
